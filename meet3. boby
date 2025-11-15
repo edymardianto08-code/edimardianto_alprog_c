@@ -1,0 +1,20 @@
+
+# tipe data = tipe dari sebuah nilai
+
+x = 10 # tipe dari inte
+print("nilai dari x =,x")
+print("tipe data dari =,type(x))
+
+y = 3,5 # tipe dari float
+print("nilai dari x =,y")
+print("tipe data dari =,type(y))
+
+nama = "edy mardianto" # tipe dari inte
+print("nilai dari x =,nama")
+print("tipe data dari =,type(nama))
+
+kebenaran = "true" # tipe dari bolean
+print("nilai dari x =,kebenaran")
+print("tipe data dari =,type(kebenaran))
+
+

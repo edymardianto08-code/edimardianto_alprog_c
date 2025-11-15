@@ -1,0 +1,13 @@
+
+# mengambil input dari unsur
+
+nama = input ("edi mardianto")
+print("selamat datang", nama)
+print("nilai dari nama", nama)
+print(type(nama))
+
+umur = input ("21")
+print("selamat datang", umur)
+print("nilai dari umur", umur)
+print(type(umur))
+
